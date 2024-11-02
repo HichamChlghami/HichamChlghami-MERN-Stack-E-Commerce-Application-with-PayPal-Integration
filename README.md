@@ -30,5 +30,5 @@ A robust e-commerce application built using the MERN stack (MongoDB, Express.js,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MERN-ECommerce-PayPal-Stripe.git
-   cd MERN-ECommerce-PayPal-Stripe
+   git clone https://github.com/HichamChlghami/MERN-Stack-E-Commerce-Application-with-PayPal-and-Stripe-Integration.git
+   cd MERN-Stack-E-Commerce-Application-with-PayPal-and-Stripe-Integration
