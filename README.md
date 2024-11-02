@@ -13,7 +13,7 @@ A robust e-commerce application built using the MERN stack (MongoDB, Express.js,
 - Responsive design for mobile and desktop
 
 ## Technologies Used
-- **Frontend:** React, Redux, Axios, Bootstrap
+- **Frontend:** React, Redux, Axios, 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Payment Processing:** PayPal API, Stripe API
